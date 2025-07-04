@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Visual Studio cache
+=======
+# Visual Studio local cache
+>>>>>>> c7d4cbc9dc7871b75fa6dd0e49a9e7ffd93d3b8a
 .vs/
 
 # Build outputs
@@ -10,3 +14,7 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+<<<<<<< HEAD
+=======
+
+>>>>>>> c7d4cbc9dc7871b75fa6dd0e49a9e7ffd93d3b8a
